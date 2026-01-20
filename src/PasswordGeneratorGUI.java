@@ -42,5 +42,7 @@ public class PasswordGeneratorGUI extends JFrame {
 
         // add to GUI
         add(titleLabel);
+
+        // create result text area
     }
 }
